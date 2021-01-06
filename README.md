@@ -1,5 +1,6 @@
 # Brad Lindblad, MBA
 
+
 ## Connect with me:
 
 [![Website](https://img.shields.io/badge/Website-technistema.com-informational?style=flat-square&logo=jekyll&logoColor=white)](https://technistema.com)
