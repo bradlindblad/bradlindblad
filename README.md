@@ -9,7 +9,7 @@
   - :chart_with_upwards_trend: automated [crypto trading bot](https://github.com/bradlindblad/GDAX_Trader) for the now-defunct GDAX exchange
   - :cow: tidyUSDA [R package](https://bradlindblad.github.io/tidyUSDA/) creator 
 
-## Connect with me:
+## Connect with me
 
 [![Website](https://img.shields.io/badge/Website-technistema.com-informational?style=flat-square&logo=jekyll&logoColor=white)](https://technistema.com)
 [![Linkedin Badge](https://img.shields.io/badge/-bradlindblad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradlindblad/)](https://www.linkedin.com/in/bradlindblad/)
