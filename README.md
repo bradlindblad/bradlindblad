@@ -5,8 +5,8 @@
 - Certified R [tidyverse trainer](https://education.rstudio.com/trainers/people/lindblad+brad/) -- let me teach you
 - Some popular open source projects:
   - :movie_camera: creator of the Schrute packages for [R](https://github.com/bradlindblad/schrute) , [Python](https://github.com/bradlindblad/schrutepy) , and [Julia](https://github.com/bradlindblad/Schrute.jl)
-  - :chart_with_upwards_trend: automated [crypto trading bot] for the now-defunct GDAX exchange
-  - :cow: tidyUSDA [R package] creator 
+  - :chart_with_upwards_trend: automated [crypto trading bot](https://github.com/bradlindblad/GDAX_Trader) for the now-defunct GDAX exchange
+  - :cow: tidyUSDA [R package](https://github.com/bradlindblad/tidyUSDA) creator 
 
 ## Connect with me:
 
