@@ -1,34 +1,44 @@
-### Hi there 👋
+## Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/bradlindblad/bradlindblad)](https://badges.pufler.dev)
+## Connect with me:
+
+[![Website](https://img.shields.io/badge/Website-technistema.com-informational?style=flat-square&logo=jekyll&logoColor=white)](https://technistema.com)
+[![Linkedin Badge](https://img.shields.io/badge/-bradlindblad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradlindblad/)](https://www.linkedin.com/in/bradlindblad/)
+[![Gmail Badge](https://img.shields.io/badge/-bradley.lindblad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bradley.lindblad@gmail.com)](mailto:bradley.lindblad@gmail.com)
 
 
-### Connect with me:
+<!-- ## Languages and tools I use -->
 
-[<img align="left" alt="technistema.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Brad Lindblad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Languages
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/julia%20-%230db7ed.svg?&style=for-the-badge&logo=julia&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
-<br>
 
-<!--
-**bradlindblad/bradlindblad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Other languages and tools
+<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
-Here are some ideas to get you started:
+## Cloud
+<img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->    
+
+## My stats
 [![Brad's github stats](https://github-readme-stats.vercel.app/api?username=bradlindblad)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
+[![Visits Badge](https://badges.pufler.dev/visits/bradlindblad/bradlindblad)](https://badges.pufler.dev)
 
 [website]: https://technistema.com
 [linkedin]: https://www.linkedin.com/in/bradlindblad/
