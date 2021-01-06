@@ -31,6 +31,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Professional Financial Reports with RMarkdown](https://technistema.com/posts/professional-financial-reports-with-rmarkdown/)
 - [Introducing Schrute.jl: The Office Transcripts Data Set for Julia](https://technistema.com/posts/introducing-schrute-jl-the-office-transcripts-data-set-for-julia/)
 - [My First Linux Snapcraft App](https://technistema.com/posts/my-first-linux-snapcraft-app/)
 - [Using the BiblePi Program](https://technistema.com/posts/using-the-biblepi-program/)
@@ -40,7 +41,6 @@
 - [Introducing the schrute Package: the Entire Transcripts From The Office](https://technistema.com/posts/introducing-the-schrute-package-the-entire-transcripts-from-the-office/)
 - [Building a Corporate R Package for Pleasure and Profit](https://technistema.com/posts/building-a-corporate-r-package-for-pleasure-and-profit/)
 - [Announcing tidyUSDA: A Package for working with USDA Data](https://technistema.com/posts/announcing-tidyusda-a-package-for-working-with-usda-data/)
-- [About Brad](https://technistema.com/about/)
 <!-- BLOG-POST-LIST:END -->    
 
 ## My stats
