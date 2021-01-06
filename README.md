@@ -2,11 +2,12 @@
 
 ## What I do
 - I'm a full-time data scientist in the farm credit system
+- I write about data, etc. on [technistema.com](https://technistema.com) -- [subscribe](https://technistema.com/contact/)
 - Certified R [tidyverse trainer](https://education.rstudio.com/trainers/people/lindblad+brad/) -- let me teach you
 - Some popular open source projects:
-  - :movie_camera: creator of the Schrute packages for [R](https://github.com/bradlindblad/schrute) , [Python](https://github.com/bradlindblad/schrutepy) , and [Julia](https://github.com/bradlindblad/Schrute.jl)
+  - :movie_camera: creator of the Schrute packages for [R](https://bradlindblad.github.io/schrute/) , [Python](https://github.com/bradlindblad/schrutepy) , and [Julia](https://github.com/bradlindblad/Schrute.jl)
   - :chart_with_upwards_trend: automated [crypto trading bot](https://github.com/bradlindblad/GDAX_Trader) for the now-defunct GDAX exchange
-  - :cow: tidyUSDA [R package](https://github.com/bradlindblad/tidyUSDA) creator 
+  - :cow: tidyUSDA [R package](https://bradlindblad.github.io/tidyUSDA/) creator 
 
 ## Connect with me:
 
