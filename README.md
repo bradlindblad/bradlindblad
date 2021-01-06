@@ -31,6 +31,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Schrute.jl: The Office Transcripts Data Set for Julia](https://technistema.com/posts/introducing-schrute-jl-the-office-transcripts-data-set-for-julia/)
+- [My First Linux Snapcraft App](https://technistema.com/posts/my-first-linux-snapcraft-app/)
+- [Using the BiblePi Program](https://technistema.com/posts/using-the-biblepi-program/)
+- [Python Text Analysis With the Schrutepy Package](https://technistema.com/posts/python-text-analysis-with-the-schrutepy-package/)
+- [How Would Hemingway Write Code?](https://technistema.com/posts/how-would-hemingway-write-code/)
 <!-- BLOG-POST-LIST:END -->    
 
 ## My stats
