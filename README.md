@@ -13,7 +13,7 @@
 
 [![Website](https://img.shields.io/badge/Website-technistema.com-informational?style=flat-square&logo=jekyll&logoColor=white)](https://technistema.com)
 [![Linkedin Badge](https://img.shields.io/badge/-bradlindblad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bradlindblad/)](https://www.linkedin.com/in/bradlindblad/)
-[![Gmail Badge](https://img.shields.io/badge/-bradley.lindblad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bradley.lindblad@gmail.com)](mailto:bradley.lindblad@gmail.com)
+[![Email](https://img.shields.io/badge/Email-me@bradlindblad.com-informational?style=flat-square&logo=protonmail&logoColor=white&link=mailto:me@bradlindblad.com)](mailto:me@bradlindblad.com)
 
 
 <!-- ## Languages and tools I use -->
