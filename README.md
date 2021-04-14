@@ -35,6 +35,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the {cheatsheet} Package](https://technistema.com/posts/announcing-the-cheatsheet-package-r/)
 - [{tidyUSDA} Version 0.3.1 Is Now Available](https://technistema.com/posts/tidyusda-version-031-is-available/)
 - [Professional Financial Reports with RMarkdown](https://technistema.com/posts/professional-financial-reports-with-rmarkdown/)
 - [Introducing Schrute.jl: The Office Transcripts Data Set for Julia](https://technistema.com/posts/introducing-schrute-jl-the-office-transcripts-data-set-for-julia/)
@@ -44,7 +45,6 @@
 - [How Would Hemingway Write Code?](https://technistema.com/posts/how-would-hemingway-write-code/)
 - [Using R to Analyze Fargo Crime Data](https://technistema.com/posts/using-r-to-analyze-fargo-crime-data/)
 - [Introducing the schrute Package: the Entire Transcripts From The Office](https://technistema.com/posts/introducing-the-schrute-package-the-entire-transcripts-from-the-office/)
-- [Building a Corporate R Package for Pleasure and Profit](https://technistema.com/posts/building-a-corporate-r-package-for-pleasure-and-profit/)
 <!-- BLOG-POST-LIST:END -->    
 
 ## My stats
