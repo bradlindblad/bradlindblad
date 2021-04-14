@@ -35,7 +35,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the {cheatsheet} Package](https://technistema.com/posts/announcing-the-cheatsheet-package-r/)
+- [Announcing the {cheatsheet} Package](https://technistema.com/posts/announcing-the-cheatsheet-package/)
 - [{tidyUSDA} Version 0.3.1 Is Now Available](https://technistema.com/posts/tidyusda-version-031-is-available/)
 - [Professional Financial Reports with RMarkdown](https://technistema.com/posts/professional-financial-reports-with-rmarkdown/)
 - [Introducing Schrute.jl: The Office Transcripts Data Set for Julia](https://technistema.com/posts/introducing-schrute-jl-the-office-transcripts-data-set-for-julia/)
