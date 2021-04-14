@@ -8,9 +8,9 @@
   - :movie_camera: creator of the Schrute packages for [R](https://bradlindblad.github.io/schrute/) , [Python](https://github.com/bradlindblad/schrutepy) , and [Julia](https://github.com/bradlindblad/Schrute.jl)
   - :chart_with_upwards_trend: automated [crypto trading bot](https://github.com/bradlindblad/GDAX_Trader) for the now-defunct GDAX exchange
   - :cow: tidyUSDA [R package](https://bradlindblad.github.io/tidyUSDA/) creator 
-  - Snapcraft.io top Health and Fitness app:    
-    - [![pray](https://snapcraft.io/pray/badge.svg)](https://snapcraft.io/pray)
-![pray gif](https://github.com/bradlindblad/lectio_divina/blob/master/screenshot.gif?raw=true)
+  - Snapcraft.io top Health and Fitness app:[![pray](https://snapcraft.io/pray/badge.svg)](https://snapcraft.io/pray)
+  - R [{cheatsheets} package](https://github.com/bradlindblad/cheatsheet) - downloads all RStudio cheatsheets locally
+
 
 
 ## Connect with me
