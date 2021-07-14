@@ -35,6 +35,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing Roam Research Attribute Tables with Python](https://technistema.com/posts/roam-attribute-table-analysis/)
 - [Announcing the {cheatsheet} Package](https://technistema.com/posts/announcing-the-cheatsheet-package/)
 - [{tidyUSDA} Version 0.3.1 Is Now Available](https://technistema.com/posts/tidyusda-version-031-is-available/)
 - [Professional Financial Reports with RMarkdown](https://technistema.com/posts/professional-financial-reports-with-rmarkdown/)
@@ -44,7 +45,6 @@
 - [Python Text Analysis With the Schrutepy Package](https://technistema.com/posts/python-text-analysis-with-the-schrutepy-package/)
 - [How Would Hemingway Write Code?](https://technistema.com/posts/how-would-hemingway-write-code/)
 - [Using R to Analyze Fargo Crime Data](https://technistema.com/posts/using-r-to-analyze-fargo-crime-data/)
-- [Introducing the schrute Package: the Entire Transcripts From The Office](https://technistema.com/posts/introducing-the-schrute-package-the-entire-transcripts-from-the-office/)
 <!-- BLOG-POST-LIST:END -->    
 
 ## My stats
