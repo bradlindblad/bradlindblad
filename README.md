@@ -6,7 +6,7 @@
 - Certified R [tidyverse trainer](https://education.rstudio.com/trainers/people/lindblad+brad/) -- let me teach you
 - Some popular open source projects:
   - [Created algorithmic trading bot](https://github.com/bradlindblad/GDAX_Trader) :chart_with_upwards_trend:   
-  - :package: [schrute R package](bradlindblad.github.io/schrute/) creator, as well as versions for [python](https://github.com/bradlindblad/schrutepy) and [Julia](https://github.com/bradlindblad/Schrute.jl)
+  - :package: [schrute R package](https://bradlindblad.github.io/schrute/) creator, as well as versions for [python](https://github.com/bradlindblad/schrutepy) and [Julia](https://github.com/bradlindblad/Schrute.jl)
   - :package: [tidyUSDA R package](https://bradlindblad.github.io/tidyUSDA/) creator :cow:; grabs USDA data in tidy format for analysis
   - :package: [cheatsheets R package](https://bradlindblad.github.io/cheatsheet) creator; downloads all RStudio cheatsheets locally
   - :package: [proverbs R package](https://bradlindblad.github.io/proverbs/) creator; print out a daily Bible proverb to your console 📙
