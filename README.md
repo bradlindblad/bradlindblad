@@ -5,12 +5,12 @@
 - I write about data, etc. on [technistema.com](https://technistema.com) -- [subscribe](https://technistema.com/contact/)
 - Certified R [tidyverse trainer](https://education.rstudio.com/trainers/people/lindblad+brad/) -- let me teach you
 - Some popular open source projects:
-  - :movie_camera: creator of the Schrute packages for [R](https://bradlindblad.github.io/schrute/) , [Python](https://github.com/bradlindblad/schrutepy) , and [Julia](https://github.com/bradlindblad/Schrute.jl)
-  - :chart_with_upwards_trend: automated [crypto trading bot](https://github.com/bradlindblad/GDAX_Trader) for the now-defunct GDAX exchange
-  - :cow: tidyUSDA [R package](https://bradlindblad.github.io/tidyUSDA/) creator 
-  - Snapcraft.io top Health and Fitness app: [![pray](https://snapcraft.io/pray/badge.svg)](https://snapcraft.io/pray)
-  - R [{cheatsheets} package](https://github.com/bradlindblad/cheatsheet) - downloads all RStudio cheatsheets locally
-
+  - [Created algorithmic trading bot](https://github.com/bradlindblad/GDAX_Trader) :chart_with_upwards_trend:   
+  - :package: [schrute R package](https://github.com/bradlindblad/schrute) creator, as well as versions for [python](https://github.com/bradlindblad/schrutepy) and [Julia](https://github.com/bradlindblad/Schrute.jl)
+  - :package: [tidyUSDA R package](https://bradlindblad.github.io/tidyUSDA/) creator :cow:; grabs USDA data in tidy format for analysis
+  - :package: [cheatsheets R package](https://github.com/bradlindblad/cheatsheet) creator; downloads all RStudio cheatsheets locally
+  - :package: [proverbs R package](https://github.com/bradlindblad/proverbs) creator; print out a daily Bible proverb to your console 📙
+  -  [![pray](https://snapcraft.io/pray/badge.svg)](https://snapcraft.io/pray) creator of one of the top apps in the Snapcraft.io store
 
 
 ## Connect with me
