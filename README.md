@@ -35,6 +35,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Github Actions, Python and Telegram to Get Ribeye Specials](https://technistema.com/posts/using-github-action-python-telegram-meat/)
 - [Analyzing Roam Research Attribute Tables with Python](https://technistema.com/posts/roam-attribute-table-analysis/)
 - [Announcing the {cheatsheet} Package](https://technistema.com/posts/announcing-the-cheatsheet-package/)
 - [{tidyUSDA} Version 0.3.1 Is Now Available](https://technistema.com/posts/tidyusda-version-031-is-available/)
@@ -44,7 +45,6 @@
 - [Using the BiblePi Program](https://technistema.com/posts/using-the-biblepi-program/)
 - [Python Text Analysis With the Schrutepy Package](https://technistema.com/posts/python-text-analysis-with-the-schrutepy-package/)
 - [How Would Hemingway Write Code?](https://technistema.com/posts/how-would-hemingway-write-code/)
-- [Using R to Analyze Fargo Crime Data](https://technistema.com/posts/using-r-to-analyze-fargo-crime-data/)
 <!-- BLOG-POST-LIST:END -->    
 
 ## My stats
