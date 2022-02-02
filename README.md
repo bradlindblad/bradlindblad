@@ -35,6 +35,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing {proverbs}: A Package For Printing a Daily Proverb in R](https://technistema.com/posts/announcing-proverbs-r-package/)
 - [Using Github Actions, Python and Telegram to Get Ribeye Specials](https://technistema.com/posts/using-github-action-python-telegram-meat/)
 - [Analyzing Roam Research Attribute Tables with Python](https://technistema.com/posts/roam-attribute-table-analysis/)
 - [Announcing the {cheatsheet} Package](https://technistema.com/posts/announcing-the-cheatsheet-package/)
@@ -44,7 +45,6 @@
 - [My First Linux Snapcraft App](https://technistema.com/posts/my-first-linux-snapcraft-app/)
 - [Using the BiblePi Program](https://technistema.com/posts/using-the-biblepi-program/)
 - [Python Text Analysis With the Schrutepy Package](https://technistema.com/posts/python-text-analysis-with-the-schrutepy-package/)
-- [How Would Hemingway Write Code?](https://technistema.com/posts/how-would-hemingway-write-code/)
 <!-- BLOG-POST-LIST:END -->    
 
 ## My stats
