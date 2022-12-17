@@ -13,4 +13,4 @@ jobs:
         with:
           max_post_count: "10"
 #           feed_list: "https://technistema.com/index.xml"
-            feed_list: "https://technistema.com/posts/index.xml"
+          feed_list: "https://technistema.com/posts/index.xml"
