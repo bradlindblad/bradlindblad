@@ -66,16 +66,16 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [proverbs Now Has Support for ESV Translation](https://technistema.com/posts/proverbs-esv-support/index.html)
-- [Announcing proverbs; A Package For Printing a Daily Proverb in R](https://technistema.com/posts/announcing-proverbs-r-package/index.html)
-- [Using Github Actions, Python and Telegram to Get Ribeye Specials](https://technistema.com/posts/using-github-action-python-telegram-meat/index.html)
-- [Analyzing Roam Research Attribute Tables with Python](https://technistema.com/posts/roam-attribute-table-analysis/index.html)
-- [Announcing the {cheatsheet} Package](https://technistema.com/posts/announcing-the-cheatsheet-package/index.html)
-- [tidyUSDA Version 0.3.1 Is Now Available](https://technistema.com/posts/tidyUSDA-version-031-is-available/index.html)
-- [Professional Financial Reports with RMarkdown](https://technistema.com/posts/professional-financial-reports-with-rmarkdown/index.html)
-- [Introducing Schrute.jl: The Office Transcripts Data Set for Julia](https://technistema.com/posts/introducing-schrute-jl-the-office-transcripts-data-set-for-julia/index.html)
-- [My First Linux Snapcraft App](https://technistema.com/posts/my-first -linux-snapcraft-app/index.html)
-- [Using the Biblepi Program](https://technistema.com/posts/using-the-biblepi-program/index.html)
+- [{Proverbs} Now Has Support for ESV Translation](https://technistema.com/posts/proverbs-esv-support/)
+- [Announcing {proverbs}: A Package For Printing a Daily Proverb in R](https://technistema.com/posts/announcing-proverbs-r-package/)
+- [Using Github Actions, Python and Telegram to Get Ribeye Specials](https://technistema.com/posts/using-github-action-python-telegram-meat/)
+- [Analyzing Roam Research Attribute Tables with Python](https://technistema.com/posts/roam-attribute-table-analysis/)
+- [Announcing the {cheatsheet} Package](https://technistema.com/posts/announcing-the-cheatsheet-package/)
+- [{tidyUSDA} Version 0.3.1 Is Now Available](https://technistema.com/posts/tidyusda-version-031-is-available/)
+- [Professional Financial Reports with RMarkdown](https://technistema.com/posts/professional-financial-reports-with-rmarkdown/)
+- [Introducing Schrute.jl: The Office Transcripts Data Set for Julia](https://technistema.com/posts/introducing-schrute-jl-the-office-transcripts-data-set-for-julia/)
+- [My First Linux Snapcraft App](https://technistema.com/posts/my-first-linux-snapcraft-app/)
+- [Using the BiblePi Program](https://technistema.com/posts/using-the-biblepi-program/)
 <!-- BLOG-POST-LIST:END -->    
 
 
