@@ -74,7 +74,7 @@
 - [tidyUSDA Version 0.3.1 Is Now Available](https://technistema.com/posts/tidyUSDA-version-031-is-available/index.html)
 - [Professional Financial Reports with RMarkdown](https://technistema.com/posts/professional-financial-reports-with-rmarkdown/index.html)
 - [Introducing Schrute.jl: The Office Transcripts Data Set for Julia](https://technistema.com/posts/introducing-schrute-jl-the-office-transcripts-data-set-for-julia/index.html)
-- [My First Linux Snapcraft App](https://technistema.com/posts/my-first -linux-snapcraft-app/index.html)
+- [My First Linux Snapcraft App](https://technistema.com/posts/my-first-linux-snapcraft-app/index.html)
 - [Using the Biblepi Program](https://technistema.com/posts/using-the-biblepi-program/index.html)
 <!-- BLOG-POST-LIST:END -->    
 
