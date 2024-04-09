@@ -51,7 +51,7 @@
 
 
 ## What I do
-- I'm a full-time data scientist in the farm credit system
+- I'm a Staff Analytics Engineer working at a software company called [logos.com](https://logos.com)
 - I write about data, etc. on [technistema.com](https://technistema.com) -- [subscribe](https://technistema.com/contact/)
 - Certified R [tidyverse trainer](https://education.rstudio.com/trainers/people/lindblad+brad/) -- let me teach you
 - Some popular open source projects:
